@@ -1,0 +1,15 @@
+{
+  "name": "bixso-construction-os",
+  "version": "0.1.0",
+  "description": "Outdoor and landscape construction projects from survey to handover: quantities, quotes, variations and stage gates.",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": { "constructionos": "bin/constructionos.js" },
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node examples/backyard-renovation.js"
+  }
+}

@@ -1,0 +1,10 @@
+[
+  { "id": "lawn-1", "kind": "region", "region": { "surface": "lawn", "points": [[-6, 0], [2, 0], [2, 6], [-6, 6]] } },
+  { "id": "bed-1", "kind": "region", "region": { "surface": "bed", "points": [[2, 0], [6, 0], [6, 6], [2, 6]] } },
+  { "id": "pave-1", "kind": "region", "region": { "surface": "paving", "points": [[-6, -4], [6, -4], [6, -1], [-6, -1]] } },
+  { "id": "deck-1", "kind": "template", "template_id": "deck", "transform": { "pos": [-3, 0, -2.5], "scale": [1, 1, 1] } },
+  { "id": "p1", "kind": "plant", "plant": { "species_id": "westringia-greybox" }, "transform": { "pos": [3, 0, 1] } },
+  { "id": "p2", "kind": "plant", "plant": { "species_id": "westringia-greybox" }, "transform": { "pos": [4.2, 0, 1] } },
+  { "id": "p3", "kind": "plant", "plant": { "species_id": "lomandra-tanika" }, "transform": { "pos": [5, 0, 4] } },
+  { "id": "t1", "kind": "plant", "plant": { "species_id": "banksia-integrifolia" }, "transform": { "pos": [4, 0, 5] } }
+]
