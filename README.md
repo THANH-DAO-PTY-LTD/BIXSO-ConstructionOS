@@ -11,6 +11,11 @@ Run an outdoor or landscape construction job from first enquiry to handover: sit
 - **Handover needs the work done.** Handover is blocked while tasks are open or decisions are pending, and only the client can accept it and complete the job.
 - **Plant growth and site checks.** See plant spacing conflicts at mature size and elements that sit close to the boundary.
 
+## Who it's for
+
+- **Builders:** developers of estimating, quoting or job-management apps for trades can use the take-off, Bill of Quantities, variation and handover rules.
+- **Contractors and landscapers:** check the sample rates and take-off rules against how you actually quote.
+
 ## Try it
 
 Use Node.js 22 or later. There are no dependencies to install.
