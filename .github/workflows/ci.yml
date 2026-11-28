@@ -1,4 +1,4 @@
-name: ConstructionOS checks
+name: Construction OS checks
 on: [push, pull_request, workflow_dispatch]
 permissions:
   contents: read

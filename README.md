@@ -1,4 +1,4 @@
-# BIXSO ConstructionOS
+# BIXSO Construction OS
 
 Run an outdoor or landscape construction job from first enquiry to handover: site survey, design quantities, quote, agreement, variations, work plan and sign-off. It is for small contractors who quote from a drawing and want the numbers and the paperwork to agree with each other.
 
@@ -55,7 +55,7 @@ Project functions return a new project and leave the previous one unchanged.
 
 ## Help shape it
 
-Open an [issue](https://github.com/THANH-DAO-PTY-LTD/BIXSO-ConstructionOS/issues) if a rate, take-off rule or stage check does not match how you build. See [CONTRIBUTING](CONTRIBUTING.md) and the [security policy](SECURITY.md).
+Open an [issue](https://github.com/THANH-DAO-PTY-LTD/BIXSO-Construction-OS/issues) if a rate, take-off rule or stage check does not match how you build. See [CONTRIBUTING](CONTRIBUTING.md) and the [security policy](SECURITY.md).
 
 ## License
 

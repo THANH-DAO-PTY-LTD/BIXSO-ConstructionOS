@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, readFileSync, renameSync, writeFileSync } from '
 import { join } from 'node:path'
 import * as cos from '../src/index.js'
 
-const HELP = `ConstructionOS: an outdoor construction job from survey to handover
+const HELP = `Construction OS: an outdoor construction job from survey to handover
 
 Usage
   constructionos new <id> [--name N] [--client C] [--contractor C] [--lot 14x12]
