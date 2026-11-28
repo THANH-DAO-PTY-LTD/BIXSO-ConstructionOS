@@ -16,6 +16,14 @@ Run an outdoor or landscape construction job from first enquiry to handover: sit
 - **Builders:** developers of estimating, quoting or job-management apps for trades can use the take-off, Bill of Quantities, variation and handover rules.
 - **Contractors and landscapers:** check the sample rates and take-off rules against how you actually quote.
 
+<!-- bixso-os-origin:start -->
+## Where this comes from
+
+These rules come from **[Auslandscape](https://auslandscape.com.au)**, a landscape design and quoting platform that BIXSO builds and runs. This repository is the open concept and a lite reference implementation of its rules: plain functions, local files and no accounts. The product adds what a real service needs, such as accounts, hosting and support, and it is still being built.
+
+Ideas and changes made here are reviewed for Auslandscape as well. See this project's [roadmap](docs/ROADMAP.md) and [how BIXSO OS is run](https://github.com/THANH-DAO-PTY-LTD/.github/blob/main/GOVERNANCE.md).
+<!-- bixso-os-origin:end -->
+
 ## Try it
 
 Use Node.js 22 or later. There are no dependencies to install.
