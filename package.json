@@ -4,10 +4,32 @@
   "description": "Outdoor and landscape construction projects from survey to handover: quantities, quotes, variations and stage gates.",
   "private": true,
   "license": "MIT",
+  "author": "Thanh Dao Pty Ltd",
+  "homepage": "https://github.com/THANH-DAO-PTY-LTD/BIXSO-Construction-OS#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THANH-DAO-PTY-LTD/BIXSO-Construction-OS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/THANH-DAO-PTY-LTD/BIXSO-Construction-OS/issues"
+  },
+  "keywords": [
+    "bixso",
+    "bixso-os",
+    "local-first",
+    "open-source",
+    "construction",
+    "landscaping",
+    "bill-of-quantities"
+  ],
   "type": "module",
   "main": "src/index.js",
-  "bin": { "constructionos": "bin/constructionos.js" },
-  "engines": { "node": ">=22" },
+  "bin": {
+    "constructionos": "bin/constructionos.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "test": "node --test",
     "demo": "node examples/backyard-renovation.js"
