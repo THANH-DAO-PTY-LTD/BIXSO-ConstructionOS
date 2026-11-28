@@ -1,5 +1,7 @@
 # BIXSO Construction OS
 
+![BIXSO Construction OS: real demo output of BIXSO Construction OS with fictional data](docs/media/bixso-construction-os.png)
+
 Run an outdoor or landscape construction job from first enquiry to handover: site survey, design quantities, quote, agreement, variations, work plan and sign-off. It is for small contractors who quote from a drawing and want the numbers and the paperwork to agree with each other.
 
 - **Quantities from the drawing.** Draw lawn, beds, paving, decking, gravel or concrete as areas, place plants and elements, and get a Bill of Quantities with an indicative price range and GST.
